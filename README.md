@@ -12,7 +12,7 @@ STEPS:
   4. If the number is small it prompts to enter a larger number.
   5. The game continues upto 10 attempts. If the user guesses the correct number the game ends.
 
-Taks 2 - Simple Calculator
+Task 2 - Simple Calculator
 
   Simple calculator is used to perform basic arithmetic operations including addition, subtraction, multiplication and division.
 
